@@ -1,30 +1,25 @@
 # Hi, I'm Bhavya 👋
 
 🎓 B.Tech 3rd Year Student
-
 💻 Full Stack Developer
-
 🤖 AI/ML Enthusiast
-
 🚀 Hackathon Participant
 
 ## Skills
-
 - Java
 - Python
-- HTML
-- CSS
 - JavaScript
 - React
+- HTML
+- CSS
+- Node.js
+- MongoDB
 - Git & GitHub
 
-## Currently Learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- Full Stack Development
+## Current Focus
+- Building Full Stack Projects
+- Learning System Design
+- Participating in Hackathons
 
 ## Connect With Me
-
-- LinkedIn: linkedin.com/in/bhavyasreegubba072
-- Email: bhavyasreegubba06@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bhavyasreegubba072
