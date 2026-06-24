@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bhavya 👋
 
-<!--
-**bhavyasree72/bhavyasree72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI/ML Enthusiast
+
+🚀 Hackathon Participant
+
+## Skills
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Full Stack Development
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/bhavyasreegubba072
+- Email: bhavyasreegubba06@gmail.com
